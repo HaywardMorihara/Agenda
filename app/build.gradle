@@ -2,10 +2,9 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 27
-    buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "com.nathanielmorihara.agenda"
-        minSdkVersion 11
+        minSdkVersion 14
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
